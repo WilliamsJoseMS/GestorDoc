@@ -1,0 +1,5 @@
+{
+  "name": "GestorDoc",
+  "description": "Sistema de gestión GestorDoc: Presupuestos y Notas de Entrega con control de inventario y configuración personalizada.",
+  "requestFramePermissions": []
+}
